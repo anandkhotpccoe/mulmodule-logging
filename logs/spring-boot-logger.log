@@ -1,0 +1,32 @@
+2020-01-21 15:27:08,172 WARN com.yagna.logging.Module1App [main] Before Starting Spring boot App
+2020-01-21 15:27:08,719 INFO org.springframework.boot.StartupInfoLogger [main] Starting Module1App v1.0-SNAPSHOT on yagna-Inspiron-15-7579 with PID 10474 (/home/anand/Desktop/AnandLearning/logging/module1/target/module1-1.0-SNAPSHOT.jar started by anand in /home/anand/Desktop/AnandLearning/logging)
+2020-01-21 15:27:08,720 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 15:27:08,731 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-21 15:27:09,811 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-21 15:27:09,825 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-21 15:27:09,826 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-21 15:27:09,826 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-21 15:27:09,906 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-21 15:27:09,906 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1105 ms
+2020-01-21 15:27:10,087 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-21 15:27:10,249 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-21 15:27:10,279 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-21 15:27:10,282 INFO org.springframework.boot.StartupInfoLogger [main] Started Module1App in 1.988 seconds (JVM running for 2.579)
+2020-01-21 15:27:10,284 WARN com.yagna.logging.Module1App [main] After Starting Spring boot App
+2020-01-21 15:27:34,953 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-21 16:20:33,705 WARN com.yagna.logging.Module1App [main] Before Starting Spring boot App
+2020-01-21 16:20:34,329 INFO org.springframework.boot.StartupInfoLogger [main] Starting Module1App v1.0-SNAPSHOT on yagna-Inspiron-15-7579 with PID 13025 (/home/anand/Desktop/AnandLearning/logging/module1/target/module1-1.0-SNAPSHOT.jar started by anand in /home/anand/Desktop/AnandLearning/logging)
+2020-01-21 16:20:34,335 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 16:20:34,336 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-21 16:20:35,576 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-21 16:20:35,590 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-21 16:20:35,591 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-21 16:20:35,591 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-21 16:20:35,661 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-21 16:20:35,662 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1246 ms
+2020-01-21 16:20:35,860 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-21 16:20:36,036 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-21 16:20:36,080 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-21 16:20:36,083 INFO org.springframework.boot.StartupInfoLogger [main] Started Module1App in 2.238 seconds (JVM running for 2.776)
+2020-01-21 16:20:36,085 WARN com.yagna.logging.Module1App [main] After Starting Spring boot App
+2020-01-21 16:20:46,267 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
